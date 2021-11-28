@@ -63,8 +63,8 @@
 Ниже команды для установки detectron2:
 
 ```
-!git clone https://github.com/facebookresearch/detectron2 detectron2_repo
-!pip install -e detectron2_repo
+git clone https://github.com/facebookresearch/detectron2 detectron2_repo
+pip install -e detectron2_repo
 ```
 
 Также необходимо [fast_api](https://api.tiger.monetka.name/docs).
