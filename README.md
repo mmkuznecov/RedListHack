@@ -55,3 +55,5 @@
 ## Развертывание и запуск
 
 Загрузить веса модели можно по [ссылке](https://cloud.monetka.name/s/psNYYAig5Mqcgnn/download/model_final.pth).
+
+В директории сервера необходимо создать папку `/output/model_b` и поместить туда веса модели.
