@@ -57,3 +57,14 @@
 Загрузить веса модели можно по [ссылке](https://cloud.monetka.name/s/psNYYAig5Mqcgnn/download/model_final.pth).
 
 В директории сервера необходимо создать папку `/output/model_b` и поместить туда веса модели.
+
+Создать структуру файлов `data/sorted/`,`data/buffer`, `data/uncertain`. В первой - три папки: tiger, leopard, other, во второй - изображения, которые мы хотим отсортировать.
+
+Ниже команды для установки detectron2:
+
+```
+!git clone https://github.com/facebookresearch/detectron2 detectron2_repo
+!pip install -e detectron2_repo
+```
+
+Также необходимо [fast_api](https://api.tiger.monetka.name/docs).
