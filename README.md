@@ -68,3 +68,9 @@ pip install -e detectron2_repo
 ```
 
 Также необходимо [fast_api](https://api.tiger.monetka.name/docs).
+
+Ссылка на гугл-диск с метриками:
+
+[классификация разных животных](https://drive.google.com/file/d/1zZjDVEsD9cSYwEI0SLw8r9J53PnJAkFi/view?usp=sharing)
+
+[распознавание Принцессы](https://drive.google.com/file/d/1Esp7nuh50kJk0xDVrMgUe1fFhYOsR0Sz/view?usp=sharing)
