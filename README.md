@@ -53,3 +53,5 @@
 При дальнейшем развитии проекта планируется улучшение имеющихся моделей, а также проверка возможности объедиенения с подходами, описанными выше. Подобную реализацию мы нашли в [статье](https://openaccess.thecvf.com/content_ICCVW_2019/papers/CVWC/Shukla_A_Hybrid_Approach_to_Tiger_Re-Identification_ICCVW_2019_paper.pdf).
 
 ## Развертывание и запуск
+
+Загрузить веса модели можно по [ссылке](https://cloud.monetka.name/s/psNYYAig5Mqcgnn/download/model_final.pth).
