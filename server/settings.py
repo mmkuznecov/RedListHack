@@ -1,0 +1,16 @@
+dirs = {
+    "Buffer" : "data/buffer",
+    "Tigers" : "data/sorted/tigers",
+    "Leopards" : "data/sorted/leopards",
+    "Others" : "data/sorted/others",
+    "Uncertain" : "data/uncertain",
+    "ModelName" : "model_b",
+    "Classes" : ["Others", "Tigers", "Leopards"],
+    "LearningRate" : 0.0025,
+    "BsPerImage" : 256,
+    "MaxIter" : 9000,
+    "Threshold" : 0.9,
+    "ModelConfig" : "COCO-Detection/faster_rcnn_X_101_32x8d_FPN_3x.yaml",
+    "AshThreshold" : 0.95,
+    "MetadataPath" : "metadata/metadata.csv",
+}
